@@ -1,0 +1,7 @@
+datas/cnn/*.png
+datas/lrcn/*
+models/checkpoints/*.pt
+!datas/cnn/*.p
+!datas/lrcn/*.p
+
+__pycache__/
